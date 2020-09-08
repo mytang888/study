@@ -1,0 +1,27 @@
+p,h1,h2{
+    color: red;
+    width: 500xp;
+    
+}
+html{
+    background-color:skyblue;
+}
+body{
+    width: 700px;
+    margin: 0 auto;
+    background-color: slateblue;
+    padding: 0px 30px 30px 30px;
+    border: 3px solid black;
+}
+h1{
+    margin: 0;
+    padding: 20px 0;
+    color: darkseagreen;
+    text-shadow: 3px 3px 1px black;
+}
+img{
+    height: 420px;
+    width: 700px;
+    display: block;
+    margin: 0 auto;
+}
